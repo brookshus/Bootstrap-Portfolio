@@ -1,0 +1,77 @@
+img{
+    max-width: 400px;
+    max-height: 400px;
+    margin: 10px
+    
+}
+
+nav {
+    color: black;
+    background-color: black
+}
+
+body{
+    background-color: #424242;
+}
+//contact Page
+#contact-form ul {
+    margin-bottom: 20px;
+  }
+  
+  #contact-form li {
+    margin-bottom: 10px;
+    font-family: 'Amatic SC', cursive;
+    color: #dddddd;
+    font-size: 30px
+  }
+  
+  label,
+  input[type=text],
+  input[type=email],
+  textarea {
+    display: block;
+    width: 100%;
+  }
+  
+  input[type=text],
+  input[type=email],
+  textarea {
+    height: 35px;
+    padding: 0 10px;
+    font-size: 14px;
+    border: 1px solid #dddddd;
+  }
+  
+  textarea {
+    height: 200px;
+  }
+  
+  input[type=submit] {
+    padding: 10px 30px;
+    font-size: 18px;
+    color: #ffffff;
+    cursor: pointer;
+    background: #4aaaa5;
+    border: 0 none;
+  }
+
+  #p1, 
+  #p2, 
+  #p3 {
+    color:white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px
+  }
+  
+  h1{
+    color: white
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px
+  }
+
+  #baby-steph {
+    max-height: 300px;
+    max-width:300px;
+border-style: solid;
+    border-color: black
+  }
